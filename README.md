@@ -5,11 +5,11 @@
 
 ## ...but there are a few more things about me:
 
- 🧰 I like creating new learning tools, check some of my repos
- 🤖 E.g., our deep learning multilingual chatbot Kevin 👉https://multiling-chatbot.herokuapp.com/ 👈 with whom you can practice your language skills for free 🙊
- 👨‍💻 I would love to collaborate with others who enjoy creating tools for more engaging education, so let me know if you have some ideas 💡
- 🕹️ I love retro consoles and electronics, in general 👉 https://www.instagram.com/teddy.spielt/?hl=en 👈
- 🧑‍💼 Also, looking for a job opportunity  that would include coding 💻 and data 📊 my favorite things ❤️
+- 🧰 I like creating new learning tools, check some of my repos
+- 🤖 E.g., our deep learning multilingual chatbot Kevin 👉https://multiling-chatbot.herokuapp.com/ 👈 with whom you can practice your language skills for free 🙊
+- 👨‍💻 I would love to collaborate with others who enjoy creating tools for more engaging education, so let me know if you have some ideas 💡
+- 🕹️ I love retro consoles and electronics, in general 👉 https://www.instagram.com/teddy.spielt/?hl=en 👈
+- 🧑‍💼 Also, looking for a job opportunity  that would include coding 💻 and data 📊 my favorite things ❤️
 
 
 <br />
@@ -38,7 +38,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[!(./img/linkedin.png)](https://linkedin.com/in/lubomir-rajter-75648016a)
+[(/img/linkedin.png)](https://linkedin.com/in/lubomir-rajter-75648016a)
 
 <br />
 <br />
