@@ -3,13 +3,13 @@
 ### I'm a microbiologist interested in coding, data, and machine learning...</p>
 ### ...but there are a few more things about me:</p>
 
-<ul>
-    <li> 🧰 I like creating new learning tools, check some of my [repos](https://github.com/wRajter?tab=repositories)</li>
-    <li> 🤖 &nbsp; Try our deep learning multilingual chatbot [Kevin](https://multiling-chatbot.herokuapp.com) with whom you can practice your language skills for free 🙊</li>
-    <li> 👨‍💻 &nbsp; I would love to collaborate with others who enjoy creating tools for more engaging education, so let me know if you have some ideas 💡</li>
-    <li> 🕹️ &nbsp; I love retro consoles, electronics and pixel art 👉🏽 check some of my babies on [Instagram](https://www.instagram.com/teddy.spielt/?hl=en)</li>
-    <li> 🧑‍💼 &nbsp; Also, looking for a job opportunity  that would include coding 💻 and data 📊 my favorite things ❤️</li>
-</ul>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp; 🧰 I like creating new learning tools, check some of my <a href="https://github.com/wRajter?tab=repositories" target="_blank">repos</a>[repos](https://github.com/wRajter?tab=repositories)
+&nbsp;&nbsp;&nbsp;&nbsp; 🤖 Try our deep learning multilingual chatbot [Kevin](https://multiling-chatbot.herokuapp.com) with whom you can practice your language skills for free 🙊
+&nbsp;&nbsp;&nbsp;&nbsp; 👨‍💻 I would love to collaborate with others who enjoy creating tools for more engaging education, so let me know if you have some ideas 💡
+&nbsp;&nbsp;&nbsp;&nbsp; 🕹️ &nbsp; I love retro consoles, electronics and pixel art 👉🏽 check some of my babies on [Instagram](https://www.instagram.com/teddy.spielt/?hl=en)
+&nbsp;&nbsp;&nbsp;&nbsp; 🧑‍💼 &nbsp; Also, looking for a job opportunity  that would include coding 💻 and data 📊 my favorite things ❤️
+</p>
 
 <br />
 <br />
