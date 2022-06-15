@@ -14,5 +14,5 @@
 
 ## Connect with me ☎️
 
-<a href="mailto:lubomir.rajter@gmail.com" target="_blank"><img align="left" src="img/gmail.svg" style="padding-right:10px;" alt="linkedin_link" width="100" height="50"></a>
+<a href="mailto:lubomir.rajter@gmail.com" target="_blank"><img align="left" src="img/gmail.png" style="padding-right:10px;" alt="linkedin_link" width="100" height="50"></a>
 <a href="https://linkedin.com/in/lubomir-rajter-75648016a" target="_blank"><img align="left" src="img/linkedin.png" style="padding-right:10px;" alt="linkedin_link" width="150" height="50"></a>
