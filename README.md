@@ -1,7 +1,7 @@
-##Few words about me 🤓
+## Few words about me 🤓
 
-###I'm a microbiologist interested in coding, data, and machine learning...</p>
-###...but there are a few more things about me:</p>
+### I'm a microbiologist interested in coding, data, and machine learning...</p>
+### ...but there are a few more things about me:</p>
 
 <ul>
     <li> 🧰 I like creating new learning tools, check some of my [repos](https://github.com/wRajter?tab=repositories)</li>
@@ -20,7 +20,7 @@
 <br />
 <br />
 
-[<img align="left" alt="GMAIL" width="26px" src="img/gmail.svg" style="padding-right:10px;" />]
+<a href="https://linkedin.com/in/lubomir-rajter-75648016a", target="_blank"><img src="img/linkedin.png" alt="linkedin_link"></a> -->
 
 
 <!-- <h2>Connect with me:</h2>
