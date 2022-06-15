@@ -20,7 +20,7 @@
 <br />
 <br />
 
-<a href="https://linkedin.com/in/lubomir-rajter-75648016a", target="_blank"><img src="img/linkedin.png" alt="linkedin_link"></a> -->
+[<a href="https://linkedin.com/in/lubomir-rajter-75648016a", target="_blank"><img src="img/linkedin.png" alt="linkedin_link"></a>]
 
 
 <!-- <h2>Connect with me:</h2>
