@@ -13,13 +13,13 @@
 <br />
 <br />
 
-<img src="img/bash.png" width="200" height="100">
+<img src="img/bash.png" width="50" height="50">
 
 
 <br />
 <br />
 
-<a href="https://linkedin.com/in/lubomir-rajter-75648016a" target="_blank"><img src="img/linkedin.png" alt="linkedin_link" width="200" height="100"></a>
+<a href="https://linkedin.com/in/lubomir-rajter-75648016a" target="_blank"><img src="img/linkedin.png" alt="linkedin_link" width="100" height="50"></a>
 
 
 <!-- <h2>Connect with me:</h2>
