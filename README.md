@@ -3,13 +3,11 @@
 ### I'm a microbiologist interested in coding, data, and machine learning...</p>
 ### ...but there are a few more things about me:</p>
 
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp; 🧰 I like creating new learning tools, check some of my <a href="https://github.com/wRajter?tab=repositories" target="_blank">repos</a>[repos](https://github.com/wRajter?tab=repositories)
-&nbsp;&nbsp;&nbsp;&nbsp; 🤖 Try our deep learning multilingual chatbot [Kevin](https://multiling-chatbot.herokuapp.com) with whom you can practice your language skills for free 🙊
-&nbsp;&nbsp;&nbsp;&nbsp; 👨‍💻 I would love to collaborate with others who enjoy creating tools for more engaging education, so let me know if you have some ideas 💡
-&nbsp;&nbsp;&nbsp;&nbsp; 🕹️ &nbsp; I love retro consoles, electronics and pixel art 👉🏽 check some of my babies on [Instagram](https://www.instagram.com/teddy.spielt/?hl=en)
-&nbsp;&nbsp;&nbsp;&nbsp; 🧑‍💼 &nbsp; Also, looking for a job opportunity  that would include coding 💻 and data 📊 my favorite things ❤️
-</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 🧰 &nbsp;&nbsp; I like creating new learning tools, check some of my <a href="https://github.com/wRajter?tab=repositories" target="_blank">repos</a><br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 🤖 &nbsp;&nbsp; Try our deep learning multilingual chatbot <a href="https://multiling-chatbot.herokuapp.com" target="_blank">Kevin</a> with whom you can practice your language skills for free 🙊<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 👨‍💻 &nbsp;&nbsp; I would love to collaborate with others who enjoy creating tools for more accessible and engaging education, so let me know if you have some ideas 💡<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 🕹️ &nbsp;&nbsp; I love retro consoles, electronics and pixel art 👉🏽 check some of my babies on <a href="https://www.instagram.com/teddy.spielt/?hl=en" target="_blank">Instagram</a><br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 🧑‍💼 &nbsp;&nbsp; Also, looking for a job opportunity  that would include coding 💻 and data 📊 my favorite things ❤️<br>
 
 <br />
 <br />
