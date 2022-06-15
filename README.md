@@ -1,61 +1,32 @@
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>GitHub README</title>
-      <style>
-         body {
-            margin: 10px;
-         }
-         a:visited, a:link {
-            color: dodgerblue;
-         }
-         a:hover, a:focus {
-            color: blueviolet;
-         }
-         img {
-            width: 60px;
-            height: 60;
-            object-fit: cover;
-            float: left;
-            margin-right: 30px;
-         }
-         ul {
-            list-style-type: none;
-         }
-         p {
-            color: #18191A;
-            font-size: large;
-            font-family: Arial, Helvetica, sans-serif
-         }
-         li {
-            font-size: large;
-            font-family: Arial, Helvetica, sans-serif
-         }
-      </style>
-   </head>
-   <body>
-      <h1>Hi lovely people 👋</h1>
-      <h2>Few words about me 🤓</h2>
-      <p>I'm a microbiologist interested in coding, data, and machine learning...</p>
-      <p>...but there are a few more things about me:</p>
+##Few words about me 🤓
 
-      <ul>
-         <li> 🧰 &nbsp; I like creating new learning tools, check some of my <a href="https://github.com/wRajter?tab=repositories", target="_blank">repos</a></li>
-         <li> 🤖 &nbsp; E.g., our deep learning multilingual chatbot <a href="https://multiling-chatbot.herokuapp.com/", target="_blank">Kevin</a> with whom you can practice your language skills for free 🙊</li>
-         <li> 👨‍💻 &nbsp; I would love to collaborate with others who enjoy creating tools for more engaging education, so let me know if you have some ideas 💡</li>
-         <li> 🕹️ &nbsp; I love retro consoles, electronics and pixel art 👉🏽 check some of my babies on <a href="https://www.instagram.com/teddy.spielt/?hl=en", target="_blank">Instagram</a>
-         <li> 🧑‍💼 &nbsp; Also, looking for a job opportunity  that would include coding 💻 and data 📊 my favorite things ❤️</li>
-      </ul>
+###I'm a microbiologist interested in coding, data, and machine learning...</p>
+###...but there are a few more things about me:</p>
 
-      <img src="img/bash.png" alt="bash">
-      <br />
-      <br />
-      <br />
-      <h2>Connect with me:</h2>
-      <a href="mailto:lubomir.rajter@gmail.com", target="_blank"><img src="img/gmail.svg" alt="gmail_link"></a>
-      <a href="https://linkedin.com/in/lubomir-rajter-75648016a", target="_blank"><img src="img/linkedin.png" alt="linkedin_link"></a>
-   </body>
-</html>
+<ul>
+    <li> 🧰 I like creating new learning tools, check some of my [repos](https://github.com/wRajter?tab=repositories)</li>
+    <li> 🤖 &nbsp; Try our deep learning multilingual chatbot [Kevin](https://multiling-chatbot.herokuapp.com) with whom you can practice your language skills for free 🙊</li>
+    <li> 👨‍💻 &nbsp; I would love to collaborate with others who enjoy creating tools for more engaging education, so let me know if you have some ideas 💡</li>
+    <li> 🕹️ &nbsp; I love retro consoles, electronics and pixel art 👉🏽 check some of my babies on [Instagram](https://www.instagram.com/teddy.spielt/?hl=en)</li>
+    <li> 🧑‍💼 &nbsp; Also, looking for a job opportunity  that would include coding 💻 and data 📊 my favorite things ❤️</li>
+</ul>
+
+<br />
+<br />
+<br />
+
+![BASH](img/bash.png)
+
+<br />
+<br />
+
+[<img align="left" alt="GMAIL" width="26px" src="img/gmail.svg" style="padding-right:10px;" />]
+
+
+<!-- <h2>Connect with me:</h2>
+<a href="mailto:lubomir.rajter@gmail.com", target="_blank"><img src="img/gmail.svg" alt="gmail_link"></a>
+<a href="https://linkedin.com/in/lubomir-rajter-75648016a", target="_blank"><img src="img/linkedin.png" alt="linkedin_link"></a> -->
+
 
 
 
