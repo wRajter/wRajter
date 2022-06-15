@@ -19,7 +19,7 @@
 <br />
 <br />
 
-<a href="https://linkedin.com/in/lubomir-rajter-75648016a", target="_blank"><img src="img/linkedin.png" alt="linkedin_link" width="200" height="100"></a>
+<a href="https://linkedin.com/in/lubomir-rajter-75648016a" target="_blank"><img src="img/linkedin.png" alt="linkedin_link" width="200" height="100"></a>
 
 
 <!-- <h2>Connect with me:</h2>
